@@ -19,4 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop:  
+![image](https://user-images.githubusercontent.com/13519212/236897230-5e9671de-973c-4a37-85c4-c993607db3a3.png)
+
+Mobile:  
+![image](https://user-images.githubusercontent.com/13519212/236897329-add4344c-538c-4606-b50e-a7a288372135.png)
